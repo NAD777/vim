@@ -23,7 +23,7 @@ call vundle#begin()
 Plugin 'itchyny/lightline.vim'
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'terryma/vim-multiple-cursors'
-"Plugin 'Valloric/YouCompleteMe'
+Plugin 'Valloric/YouCompleteMe'
 Plugin 'zxqfl/tabnine-vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'morhetz/gruvbox'
